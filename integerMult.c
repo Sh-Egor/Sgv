@@ -66,7 +66,6 @@ int
 main(void)
 {
 	int n;
-	int mult;
 	printf("Enter count n: \n");
 	scanf("%d",&n);
 	dpoint mas[n];
